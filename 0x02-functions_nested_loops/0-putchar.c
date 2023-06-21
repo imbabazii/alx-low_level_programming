@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- * main - Entry point
- * Description: 'prints _putchar to stdout'
- * Return: always o
+ * main - print _putchar
+ * is written by mbah
+ * Return: 0
  */
 int main(void)
 {
